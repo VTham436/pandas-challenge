@@ -1,0 +1,7 @@
+Written report
+
+        At a quick glance there is no distinct difference in average scores of math and reading between schools even more evident in the reading category as they are closer in score. 
+        But if we look at % of overall passing, there is an alarming low number amongst district schools. We would likely need more information to explain this discrepancy.
+        Taking a look at the highest performing schools it is interesting to note that with a smaller budget and smaller student body,
+        charter schools hold the top 5 spots, on the contrary district schools have more students and higher budgets yet greatly underperform.
+        This is again highlighted in our school summary dataframe
